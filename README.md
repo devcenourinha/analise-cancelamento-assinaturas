@@ -1,10 +1,21 @@
 ## ESCOPO - Análise de Cancelamento de Assinaturas
 
-Este projeto em Python será desenvolvido para analisar dados de cancelamento de clientes de uma base em serviços por assinatura.
-Para assim, maior compreenção da empresa que tem os assinantes.
+Desenvolver uma aplicação em Python capaz de analisar os dados de cancelamento de clientes de uma base de serviços por assinatura, com o objetivo de identificar padrões e contribuir para a redução do número de cancelamentos, proporcionando maior compreensão à empresa sobre o comportamento de seus assinantes.
 
 ## Objetivo
-Identificar padrões de cancelamento, calcular métricas e gerar gráficos para apoiar a tomada de decisão da parte de empresas que trabalham com assinaturas.
+Identificar padrões de cancelamento, calcular métricas e gerar gráficos para apoiar a tomada de decisão de empresas que trabalham com serviços por assinatura. Este projeto tem a finalidade de, por meio das etapas de recebimento, armazenamento, tratamento e manipulação de dados, buscar padrões que possam anteceder o evento do cancelamento, procurando entender se existe alguma faixa etária, localidade ou outro fator em comum entre os clientes que cancelam. A partir desses resultados, poderão ser apresentadas possíveis medidas de melhoria no serviço, com o objetivo de contribuir para a diminuição do número de cancelamentos.
+
+## Etapas de Desenvolvimento
+- Identificação do caso principal Objetivo
+- Requisitos para possivel solução
+- Descrever o escopo
+- Importação dos dados .CSV
+- Filtragem de dados
+- Tratamento dos dados
+- Estatísticas basicas
+- Comparações
+- Graficos para melhor visualização
+- Relatorio final com possiveis soluções
 
 ## Estrutura do projeto
 - `data`: base de dados
